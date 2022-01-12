@@ -1,6 +1,6 @@
 
 # Title Of Your Project
-Add a catchy title to your project. Something that people immediately know what you are doing
+- Cool Title
 
 # Introduction & Goals
 - Introduce your project to the reader
